@@ -1,0 +1,3 @@
+[scrapy]
+settings = Scrapy_Cnluqiao_V1.settings
+

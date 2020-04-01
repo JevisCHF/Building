@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Scrapy_Iimedia_V1_01/Scrapy_Iimedia_V1_01/isCountry.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scrapy_Iimedia_V1_01/Scrapy_Iimedia_V1_01/proxy.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scrapy_Qianzhan_V1/Scrapy_Qianzhan_V1/isCountry.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scrapy_Robo_V1_01/Scrapy_Robo_V1_01/cate_list.text" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scrapy_Stats_V1_01/Scrapy_Stats_V1_01/cate.text" charset="GBK" />
+  </component>
+</project>

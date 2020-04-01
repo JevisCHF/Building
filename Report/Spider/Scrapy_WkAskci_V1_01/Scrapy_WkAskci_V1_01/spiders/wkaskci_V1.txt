@@ -1,0 +1,4 @@
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=1>
+<GET http://wk.askci.com/ListTable/GetList?keyword=&bookName=&tradeId=8&typeId=&tagName=&publisher=&page=1&limit=90>
+<GET http://wk.askci.com/ListTable/GetList?keyword=&bookName=&tradeId=8&typeId=&tagName=&publisher=&page=1&limit=90>
+<GET http://wk.askci.com/ListTable/GetList?keyword=&bookName=&tradeId=8&typeId=&tagName=&publisher=&page=2&limit=90>

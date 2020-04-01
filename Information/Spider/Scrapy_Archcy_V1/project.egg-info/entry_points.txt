@@ -1,0 +1,3 @@
+[scrapy]
+settings = Scrapy_Archcy_V1.settings
+

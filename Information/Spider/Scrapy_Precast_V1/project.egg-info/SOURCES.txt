@@ -1,0 +1,15 @@
+setup.py
+Scrapy_Precast_V1/__init__.py
+Scrapy_Precast_V1/items.py
+Scrapy_Precast_V1/middlewares.py
+Scrapy_Precast_V1/pipelines.py
+Scrapy_Precast_V1/proxy.py
+Scrapy_Precast_V1/settings.py
+Scrapy_Precast_V1/start_urls.py
+Scrapy_Precast_V1/spiders/__init__.py
+Scrapy_Precast_V1/spiders/preCast_V1.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

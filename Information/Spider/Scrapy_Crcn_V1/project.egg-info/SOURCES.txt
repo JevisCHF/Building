@@ -1,0 +1,13 @@
+setup.py
+Scrapy_Crcn_V1/__init__.py
+Scrapy_Crcn_V1/items.py
+Scrapy_Crcn_V1/middlewares.py
+Scrapy_Crcn_V1/pipelines.py
+Scrapy_Crcn_V1/settings.py
+Scrapy_Crcn_V1/spiders/__init__.py
+Scrapy_Crcn_V1/spiders/crcn_V1.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

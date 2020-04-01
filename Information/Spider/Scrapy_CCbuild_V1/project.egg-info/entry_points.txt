@@ -1,0 +1,3 @@
+[scrapy]
+settings = Scrapy_CCbuild_V1.settings
+
